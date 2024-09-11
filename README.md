@@ -23,10 +23,12 @@ This project is a Movie Recommender System built using Python and popular data a
 • Scikit-learn: For machine learning algorithms (optional if you added ML models).
 
 
-• Visualization : 
+
+
+# Visualization : 
 
 Graphs and plots for movie ratings and user preferences.
 
-• Contribution : 
+# Contribution : 
 
 Feel free to fork, contribute, and create pull requests!
